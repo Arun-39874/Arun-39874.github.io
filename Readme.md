@@ -1,1 +1,1 @@
-![](images(2).jpeg)
+![](images%20(2).jpeg)
